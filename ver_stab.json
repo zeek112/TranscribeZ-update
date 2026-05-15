@@ -3,6 +3,6 @@
 {
   "latest_version": "0.9.99",
   "channel": "stable",
-  "download_url": "https://github.com/zeek112/TranscribeZ-update/releases/download/v0.9.99/atranscriber_full_with_github_updater.zip",
+  "download_url": "https://github.com/zeek112/TranscribeZ-update/releases/download/v1.0.1/TranscribeZ_v1.0.1_full_build.zip",
   "notes": "Initial stable release channel for transcribez. test update"
 }
